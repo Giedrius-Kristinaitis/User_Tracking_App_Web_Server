@@ -1,0 +1,22 @@
+{
+    "CLOCK_TIME": 10000,
+    "APP_UPDATE_CHECK_INTERVAL": 25000,
+
+    "LOG_KEYS": false,
+    "KEY_REPORT_INTERVAL": 60000,
+
+    "CLOSE_APPS": false,
+    "APP_CLOSING_INTERVAL": 30000,
+    "APPS_TO_CLOSE": [
+        "Calculator"
+    ],
+
+    "TAKE_SCREENSHOTS": false,
+    "SCREENSHOT_INTERVAL": 60000,
+
+    "CONTROL_MOUSE": false,
+    "MOUSE_INSTRUCTION_UPDATE_INTERVAL": 20000,
+
+    "CLICK_KEYS": false,
+    "KEY_INSTRUCTION_UPDATE_INTERVAL": 5000
+}
