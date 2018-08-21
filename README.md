@@ -1,5 +1,5 @@
 # User_Tracking_App_Web_Server
-Server side of the windows user tracking application.
+Server side of the windows user tracking application (Source code of the user tracking application: https://github.com/Giedrius-Kristinaitis/C-Sharp_Windows_User_Tracking_App)
 
 
 Directories:
