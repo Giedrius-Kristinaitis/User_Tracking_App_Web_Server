@@ -1,5 +1,8 @@
 <?php 
 
+// define required headers
+header('Access-Control-Allow-Origin: *');
+
 // define base file names of the files this script can recognize
 define('KEY_LOG_FILE_BASE_NAME', 'KEY_LOG');
 define('SCREENSHOT_FILE_BASE_NAME', 'SCREENSHOT');
